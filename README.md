@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on Web + API automation using Playwright, Typescript, and JavaScript<br>👯 I am looking to collaborate on cool new projects to make test automation accessible and much easier to learn for everybody<br>🤝 I am looking for help with content creation<br>🌱 I am learning more about Generative AI, Non-functional testing, and AI for test automation.<br>💬 Ask me about anything software quality assurance and test automation (Web+Mobile+API+Perf)<br>⚡A fun fact about me: I can do 100 push-ups in one go! It’s a great stress-buster after debugging a tricky test case.
+🔭 I am currently working on Web + API automation using Playwright, Typescript, and JavaScript<br>👯 I am looking to collaborate on cool new projects to make test automation accessible and much easier to learn for everybody<br>🤝 I am looking for help with content creation<br>🌱 I am learning more about Generative AI, Non-functional testing, and AI for test automation.<br>💬 Ask me about anything software quality assurance and test automation (Web+Mobile+API+Perf)<br>⚡A fun fact about me: I can do 50 push-ups in one go! It’s a great stress-buster after debugging a tricky test case.
 
 
 ## 🌐 Socials:
